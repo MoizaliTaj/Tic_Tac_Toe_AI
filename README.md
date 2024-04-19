@@ -5,7 +5,7 @@ This is a Tic Tac Toe game designed based on Minimax algorithm
 Its a simple html file that has javascript doing all the work.
 
 Minmax algorithm here uses an evalulation function that provides score based on the board.
-If its 'X's turn then program chooses the highes score. Opposite to it if its 'O's turn then it chooses lowest score.
+If its 'X's turn then program chooses the highest score. Opposite to it if its 'O's turn then it chooses lowest score.
 
 Based on this scoring it makes the choice.
 
